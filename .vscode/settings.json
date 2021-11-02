@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0e0d6a0f-d4a5-46da-a7d4-6f831c405168/resourceGroups/digitalappmobile/providers/Microsoft.Web/sites/digitalappmobile",
+    "appService.deploySubpath": "."
+}
